@@ -34,7 +34,7 @@ import {
 //     },
 //   },
 //   budgetAlert: {
-//     userName: "John Doe",
+//     userName: "Doe",
 //     type: "budget-alert",
 //     data: {
 //       percentageUsed: 85,
